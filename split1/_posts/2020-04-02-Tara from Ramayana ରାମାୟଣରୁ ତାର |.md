@@ -135,3 +135,4 @@
 
 ଅହଲ୍ୟା, ଦ୍ର up ପଦୀ, କୁନ୍ତୀ, ତର ଏବଂ ମାଣ୍ଡୋଦାରୀ |
 
+[Next - Mandodari from Ramayana ରାମାୟଣରୁ ମାଣ୍ଡୋଦାରୀ |]({{ site.baseurl }}{% link  split1/_posts/2020-04-02-Mandodari from Ramayana ରାମାୟଣରୁ ମାଣ୍ଡୋଦାରୀ |.md %})
